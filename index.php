@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>CattiWare - GITHUB</title>
+    <title>CattiWare</title>
     <meta charset="utf-8"/>
   </head>
   <body>
